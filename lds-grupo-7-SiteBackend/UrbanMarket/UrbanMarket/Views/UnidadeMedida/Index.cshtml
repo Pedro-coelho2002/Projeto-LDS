@@ -1,0 +1,41 @@
+﻿@model List<UnidadeMedida>
+
+@{
+	ViewData["Title"] = "Index";
+	Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div style="display: flex; align-items: center;">
+	<h1>Lista de Unidades de Medida</h1>
+	<div style="margin-left: auto;">
+		<a asp-controller="UnidadeMedida" asp-action="Create" class="btn btn-primary">
+			Adicionar medida
+		</a>
+	</div>
+</div>
+
+<table class="table table-bordered table-striped">
+	<tr>
+		<th>
+			ID
+		</th>
+		<th>
+			Nome
+		</th>
+		<th>
+			Ações
+		</th>
+	</tr>
+
+	@foreach (UnidadeMedida medida in Model)
+	{
+		<tr>
+			<td>@medida.Id</td>
+			<td>@medida.UniMedida</td>
+			<td>
+				<a asp-controller="UnidadeMedida" asp-action="Edit" asp-route-id="@medida.Id" class="btn btn-info">Editar</a>
+				<a asp-controller="UnidadeMedida" asp-action="Delete" asp-route-id="@medida.Id" class="btn btn-danger" onclick="return confirm('Tem certeza que deseja excluir?')">Eliminar</a>
+			</td>
+		</tr>
+	}
+</table>

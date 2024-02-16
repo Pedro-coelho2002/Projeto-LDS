@@ -1,0 +1,45 @@
+﻿@*
+@using SchoolMng.Models
+*@
+
+@model List<CategoriaProduto>
+
+@{
+    ViewData["Title"] = "Lista de Categorias";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div style="display: flex; align-items: center;">
+	<h1>Categoria Produto</h1>
+    <div style="margin-left: auto;">
+		<a asp-controller="CategoriaProduto" asp-action="Create" class="btn btn-primary">
+			Criar Categoria
+		</a>
+	</div>
+</div>
+
+<table class="table table-bordered table-striped">
+    <tr>
+        <th>
+            ID
+        </th>
+        <th>
+            Nome
+        </th>
+        <th>
+            Ações
+        </th>
+    </tr>
+
+    @foreach (CategoriaProduto categoriaProduto in Model)
+    {
+        <tr>
+            <td>@categoriaProduto.Id</td>
+            <td>@categoriaProduto.Categoria</td>
+            <td>
+                <a asp-controller="CategoriaProduto" asp-action="Edit" asp-route-id="@categoriaProduto.Id" class="btn btn-info">Edit</a>
+                <a asp-controller="CategoriaProduto" asp-action="Delete" asp-route-id="@categoriaProduto.Id" class="btn btn-danger" onclick="return confirm('Tem certeza que deseja excluir?')">Delete</a>
+            </td>
+        </tr>
+    }
+</table>

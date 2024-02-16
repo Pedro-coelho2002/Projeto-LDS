@@ -1,0 +1,40 @@
+﻿@model Produto
+
+@{
+	ViewData["Title"] = "Details";
+	Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Detalhes do Produto</h2>
+
+<div>
+	<h4>Informações do Produto</h4>
+	<hr />
+	<dl class="row">
+		<div class="col-md-6">
+			
+			<dt class="col-sm-6">Id:</dt>
+			<dd class="col-sm-6">@Model.Id</dd>
+
+			<dt class="col-sm-6">Nome:</dt>
+			<dd class="col-sm-6">@Model.Nome</dd>
+
+			<dt class="col-sm-6">Categoria:</dt>
+			<dd class="col-sm-6">@Model.Categoria?.Categoria</dd>
+
+			<dt class="col-sm-6">Unidade de Medida:</dt>
+			<dd class="col-sm-6">@Model.UnidMedida?.UniMedida</dd>
+
+		</div>
+		<div class="col-md-6">
+			<div class="text-center">
+				<img src="@Model.LinkImagem" class="rounded" style="width: 280px; height: 254px;">
+			</div>
+		</div>
+	</dl>
+</div>
+
+<div>
+	<a asp-action="Index" class="btn btn-primary">Voltar à Lista</a>
+</div>
+

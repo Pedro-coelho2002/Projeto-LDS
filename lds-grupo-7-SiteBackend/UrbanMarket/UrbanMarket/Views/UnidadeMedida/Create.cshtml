@@ -1,0 +1,20 @@
+﻿@model UnidadeMedida
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<form method="post">
+    <div class="border m-2 p-4">
+        <div class="row pb-2">
+            <h2 class="text-primary">Nova Unidade de Medida</h2>
+        </div>
+        <div class="mb-3">
+            <label asp-for="UniMedida" class="form-label">Unidade Medida</label>
+            <input asp-for="UniMedida" class="form-control" />
+        </div>
+        <button type="submit" class="btn btn-primary">Criar</button>
+        <a asp-controller="UnidadeMedida" asp-action="Index" class="btn btn-secondary">Voltar</a>
+    </div>
+</form>

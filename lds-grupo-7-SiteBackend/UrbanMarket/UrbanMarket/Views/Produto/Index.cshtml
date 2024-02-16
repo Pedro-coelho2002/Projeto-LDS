@@ -1,0 +1,49 @@
+﻿@model List<Produto>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div style="display: flex; align-items: center;">
+    <h1>Produtos</h1>
+    <div style="margin-left: auto;">
+        <a asp-controller="Produto" asp-action="Create" class="btn btn-primary">
+            Adicionar novo produto
+        </a>
+    </div>
+</div>
+
+<div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+
+    @foreach (Produto produto in Model)
+    {
+        <div class="col">
+            <div class="card shadow-sm">
+                <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
+                    <rect width="100%" height="100%" fill="#55595c"></rect>
+                    <image href="@produto.LinkImagem" width="100%" height="100%" preserveAspectRatio="xMidYMid slice"></image>
+                </svg>
+                <div class="card-body">
+                    <p class="card-text">
+                        @produto.Nome
+                    </p>
+                    <div class="d-flex justify-content-between align-items-center">
+                        <div class="btn-group">
+                            <a asp-controller="Produto" asp-action="Details" asp-route-id="@produto.Id" class="btn btn-sm btn-outline-secondary">
+                                Detalhes
+                            </a>
+                            <a asp-controller="Produto" asp-action="Delete" asp-route-id="@produto.Id" class="btn btn-sm btn-outline-secondary" onclick="return confirm('Tem certeza que deseja excluir?')">
+                                Eliminar
+                            </a>
+                            <a asp-controller="Produto" asp-action="Edit" asp-route-id="@produto.Id" class="btn btn-sm btn-outline-secondary">
+                                Editar
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+
+</div>

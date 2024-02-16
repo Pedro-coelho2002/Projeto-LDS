@@ -1,0 +1,152 @@
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\GitLab\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\GitLab\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\GitLab\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\UrbanMarketAPI.exe
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\GitLab\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\UrbanMarketAPI.deps.json
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\GitLab\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\UrbanMarketAPI.runtimeconfig.json
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\GitLab\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\UrbanMarketAPI.dll
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\GitLab\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\UrbanMarketAPI.pdb
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\GitLab\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\GitLab\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\GitLab\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\GitLab\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\GitLab\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\GitLab\lds-grupo-7\UrbanMarketAPI\obj\Debug\net7.0\UrbanMarketAPI.csproj.AssemblyReference.cache
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\GitLab\lds-grupo-7\UrbanMarketAPI\obj\Debug\net7.0\UrbanMarketAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\GitLab\lds-grupo-7\UrbanMarketAPI\obj\Debug\net7.0\UrbanMarketAPI.AssemblyInfoInputs.cache
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\GitLab\lds-grupo-7\UrbanMarketAPI\obj\Debug\net7.0\UrbanMarketAPI.AssemblyInfo.cs
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\GitLab\lds-grupo-7\UrbanMarketAPI\obj\Debug\net7.0\UrbanMarketAPI.csproj.CoreCompileInputs.cache
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\GitLab\lds-grupo-7\UrbanMarketAPI\obj\Debug\net7.0\UrbanMarketAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\GitLab\lds-grupo-7\UrbanMarketAPI\obj\Debug\net7.0\UrbanMarketAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\GitLab\lds-grupo-7\UrbanMarketAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\GitLab\lds-grupo-7\UrbanMarketAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\GitLab\lds-grupo-7\UrbanMarketAPI\obj\Debug\net7.0\staticwebassets\msbuild.UrbanMarketAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\GitLab\lds-grupo-7\UrbanMarketAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.UrbanMarketAPI.props
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\GitLab\lds-grupo-7\UrbanMarketAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.UrbanMarketAPI.props
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\GitLab\lds-grupo-7\UrbanMarketAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.UrbanMarketAPI.props
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\GitLab\lds-grupo-7\UrbanMarketAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\GitLab\lds-grupo-7\UrbanMarketAPI\obj\Debug\net7.0\scopedcss\bundle\UrbanMarketAPI.styles.css
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\GitLab\lds-grupo-7\UrbanMarketAPI\obj\Debug\net7.0\UrbanMarketAPI.csproj.CopyComplete
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\GitLab\lds-grupo-7\UrbanMarketAPI\obj\Debug\net7.0\UrbanMarketAPI.dll
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\GitLab\lds-grupo-7\UrbanMarketAPI\obj\Debug\net7.0\refint\UrbanMarketAPI.dll
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\GitLab\lds-grupo-7\UrbanMarketAPI\obj\Debug\net7.0\UrbanMarketAPI.pdb
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\GitLab\lds-grupo-7\UrbanMarketAPI\obj\Debug\net7.0\UrbanMarketAPI.genruntimeconfig.cache
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\GitLab\lds-grupo-7\UrbanMarketAPI\obj\Debug\net7.0\ref\UrbanMarketAPI.dll
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\Gitlab\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\Gitlab\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\Gitlab\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\Humanizer.dll
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\Gitlab\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\Gitlab\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\Gitlab\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\Gitlab\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\Gitlab\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\Gitlab\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\Gitlab\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\Gitlab\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\Gitlab\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\Gitlab\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\Gitlab\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\Gitlab\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\Gitlab\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\Gitlab\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\Gitlab\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\Gitlab\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\Gitlab\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\Gitlab\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\Gitlab\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\Gitlab\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\Gitlab\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\Gitlab\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\Gitlab\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\Gitlab\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\Gitlab\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\Gitlab\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\Gitlab\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\Gitlab\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\Gitlab\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\Gitlab\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\Gitlab\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\Gitlab\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\Gitlab\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\Gitlab\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\Gitlab\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\Gitlab\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\Gitlab\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\Gitlab\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\Gitlab\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tiytu\OneDrive\Ambiente de Trabalho\ESTG\3º Ano\1º Semestre\LDS\Gitlab\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\UrbanMarketAPI.exe
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\UrbanMarketAPI.deps.json
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\UrbanMarketAPI.runtimeconfig.json
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\UrbanMarketAPI.dll
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\UrbanMarketAPI.pdb
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\obj\Debug\net7.0\UrbanMarketAPI.csproj.AssemblyReference.cache
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\obj\Debug\net7.0\UrbanMarketAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\obj\Debug\net7.0\UrbanMarketAPI.AssemblyInfoInputs.cache
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\obj\Debug\net7.0\UrbanMarketAPI.AssemblyInfo.cs
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\obj\Debug\net7.0\UrbanMarketAPI.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\obj\Debug\net7.0\UrbanMarketAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\obj\Debug\net7.0\UrbanMarketAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\obj\Debug\net7.0\staticwebassets\msbuild.UrbanMarketAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.UrbanMarketAPI.props
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.UrbanMarketAPI.props
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.UrbanMarketAPI.props
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\obj\Debug\net7.0\scopedcss\bundle\UrbanMarketAPI.styles.css
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\obj\Debug\net7.0\UrbanMarketAPI.csproj.CopyComplete
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\obj\Debug\net7.0\UrbanMarketAPI.dll
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\obj\Debug\net7.0\refint\UrbanMarketAPI.dll
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\obj\Debug\net7.0\UrbanMarketAPI.pdb
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\obj\Debug\net7.0\UrbanMarketAPI.genruntimeconfig.cache
+C:\Users\Utilizador\Desktop\lds-grupo-7\UrbanMarketAPI\obj\Debug\net7.0\ref\UrbanMarketAPI.dll

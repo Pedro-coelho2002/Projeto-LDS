@@ -1,0 +1,184 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+
+
+}
+
+@model Dictionary<string, object>
+
+<div style="display: flex; align-items: center;">
+	<h1>Lista de Estatísticas</h1>
+    <div style="margin-left: auto;">
+        <h2>Produtos na aplicação: @ViewBag.TotalProdutos</h2>
+    </div>
+</div>
+
+
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<div class="container">
+    <div class="row">
+        <!-- Coluna 3 -->
+        <div class="col-md-6 mx-auto">
+            <h2 class="text-center">Distribuição de Produtos por Feirantes</h2>
+            <canvas id="meuGrafico3" width="300" height="150"></canvas>
+        </div>
+    </div>
+    <br />
+    <div class="row">
+        <!-- Coluna 1 -->
+        <div class="col-md-6 mx-auto text-center">
+            <h2>Número de produtos por categoria de produto.</h2>
+            <canvas id="meuGrafico" width="300" height="150"></canvas>
+        </div>
+
+        <!-- Coluna 2 -->
+        <div class="col-md-6 mx-auto text-center">
+            <h2>Distribuição de Produtos por Unidade de Medida</h2>
+            <canvas id="meuGrafico2" width="300" height="150"></canvas>
+        </div>
+    </div>
+</div>
+
+
+<script>
+    // Obtenha o contexto do canvas
+    var ctx = document.getElementById('meuGrafico').getContext('2d');
+
+    // Extraia os dados da ViewBag para criar o gráfico dinamicamente
+    var labels = [];
+    var data = [];
+    var backgroundColor = [];
+
+    @foreach (CategoriaProduto cat in ViewBag.Categorias)
+    {
+        <text>
+        labels.push('@cat.Categoria');
+        data.push(@cat.Produtos.Count);
+        backgroundColor.push(getRandomColor());
+        </text>
+    }
+
+    // Crie um objeto de gráfico
+    var meuGrafico = new Chart(ctx, {
+        type: 'pie', // Tipo de gráfico (pode ser 'bar', 'line', 'pie', etc.)
+        data: {
+            labels: labels,
+            datasets: [{
+                data: data,
+                backgroundColor: backgroundColor, // Cores das barras
+            }]
+        },
+        options: {
+            // Configurações adicionais do gráfico
+        }
+    });
+
+    function getRandomColor() {
+        var letters = '0123456789ABCDEF';
+        var color = '#';
+        for (var i = 0; i < 6; i++) {
+            color += letters[Math.floor(Math.random() * 16)];
+        }
+        return color;
+    }
+</script>
+
+
+<script>
+    // Obtenha o contexto do canvas
+    var ctx2 = document.getElementById('meuGrafico2').getContext('2d');
+
+    // Extraia os dados da ViewBag para criar o gráfico dinamicamente
+    var labels2 = [];
+    var data2 = [];
+    var backgroundColor2 = [];
+
+    @foreach (var unidadeMedida in ViewBag.TotalProdutosPorUnidade.Keys)
+    {
+        <text>
+            labels2.push('@unidadeMedida');
+        data2.push(@ViewBag.TotalProdutosPorUnidade[unidadeMedida]);
+        backgroundColor2.push(getRandomColor());
+        </text>
+    }
+
+        // Crie um objeto de gráfico
+        var meuGrafico2 = new Chart(ctx2, {
+        type: 'pie', // Tipo de gráfico (pie chart)
+        data: {
+            labels: labels2,
+            datasets: [{
+                data: data2,
+                backgroundColor: backgroundColor2, // Cores das fatias
+            }]
+        },
+        options: {
+            // Configurações adicionais do gráfico
+        }
+    });
+
+    // Função para obter uma cor aleatória
+    function getRandomColor() {
+        var letters = '0123456789ABCDEF';
+        var color = '#';
+        for (var i = 0; i < 6; i++) {
+            color += letters[Math.floor(Math.random() * 16)];
+        }
+        return color;
+    }
+</script>
+
+<script>
+    // Obtenha o contexto do canvas
+    var ctx = document.getElementById('meuGrafico3').getContext('2d');
+
+    // Inicialize arrays para labels, dados e cores de fundo
+    var feirantes = [];
+    var data = [];
+    var backgroundColor = [];
+
+    // Dicionário com os dados dos feirantes
+    var feirantesPublicacoes = {
+    @foreach (Feirante feirante in ViewBag.Feirantes)
+    {
+        <text>
+            '@feirante.Id': 0,
+        </text>
+    }
+            };
+
+    // Atualiza os valores no dicionário com base nos dados de publicações
+    @foreach (ProdutoFeirante publicacao in ViewBag.ProdutosFeirantes)
+    {
+        <text>
+            feirantesPublicacoes[@publicacao.FeiranteId]++;
+        </text>
+    }
+
+            // Preenche os arrays com os dados do dicionário
+            for (var feiranteId in feirantesPublicacoes) {
+        feirantes.push(feiranteId);
+        data.push(feirantesPublicacoes[feiranteId]);
+        backgroundColor.push('#' + (Math.random().toString(16) + '000000').slice(2, 8));
+    }
+
+    // Crie um objeto de gráfico
+    var meuGrafico = new Chart(ctx, {
+        type: 'bar',
+        data: {
+            labels: feirantes,
+            datasets: [{
+                label: 'Meu Gráfico',
+                data: data,
+                backgroundColor: backgroundColor,
+            }]
+        },
+        options: {
+            // Configurações adicionais do gráfico
+        }
+    });
+</script>

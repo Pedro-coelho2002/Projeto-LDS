@@ -1,0 +1,33 @@
+﻿@model CategoriaProduto
+
+@{
+    ViewData["Title"] = "Apagar";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<form method="post" asp-action="DeletePost">
+    <input asp-for="Id" hidden />
+    <div class="border m-2 p-4">
+        <div class="row pb-2">
+            <h2 class="text-primary">Apagar Categoria</h2>
+        </div>
+        <div asp-validation-summary="All"></div>
+        <div class="mb-3">
+            <label asp-for="Id" class="form-label"></label>
+            <input asp-for="Id" class="form-control" disabled />
+        </div>
+        <div class="mb-3">
+            <label asp-for="Categoria" class="form-label">Nome da categoria</label>
+            <input asp-for="Categoria" class="form-control" disabled />
+        </div>
+        <button type="submit" class="btn btn-primary">Apagar</button>
+        <a asp-controller="CategoriaProduto" asp-action="Index" class="btn btn-secondary">Voltar</a>
+    </div>
+</form>
+
+@section Scripts {
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}
+

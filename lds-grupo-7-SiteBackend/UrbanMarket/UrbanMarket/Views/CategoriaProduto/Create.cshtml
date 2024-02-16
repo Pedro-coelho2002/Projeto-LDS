@@ -1,0 +1,27 @@
+﻿@model CategoriaProduto
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<form method="post">
+    <div class="border m-2 p-4">
+        <div class="row pb-2">
+            <h2 class="text-primary">Criar Categoria</h2>
+        </div>
+        <div asp-validation-summary="All"></div>
+        <div class="mb-3">
+            <label asp-for="Categoria" class="form-label">Nome da categoria</label>
+            <input asp-for="Categoria" class="form-control" />
+            <span asp-validation-for="Categoria" class="text-danger"></span>
+        </div>
+        <button type="submit" class="btn btn-primary">Criar</button>
+        <a asp-controller="CategoriaProduto" asp-action="Index" class="btn btn-secondary">Voltar</a>
+    </div>
+</form>
+
+@section Scripts {
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}
